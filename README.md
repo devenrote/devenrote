@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Deven Rote</h1>
-<h3 align="center">Full Stack Developer (MERN) | Java & DSA</h3>
+<h3 align="center">Full Stack Developer (MERN) | Java </h3>
 
 <p align="center">
-  <a href="mailto:your-email@example.com">📩 Email Me</a>
+  <a href="mailto:rotedeven@gmail.com">📩 Email Me</a>
 </p>
 
 ---
