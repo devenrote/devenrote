@@ -47,16 +47,4 @@ I am an Information Technology student and aspiring Full Stack Developer with a 
 - Building real-world full stack projects  
 - Strengthening backend architecture concepts  
 
----
 
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=default" />
-</p>
-
----
-
-## 📌 Philosophy
-
-"Write clean code. Build scalable systems. Keep learning."
