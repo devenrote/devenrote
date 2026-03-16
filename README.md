@@ -2,16 +2,16 @@
 <h3 align="center">Full Stack Developer (MERN) | Java </h3>
 
 <p align="center">
-  <a href="mailto:your-email@gmail.com">
+  <a href="mailto:rotedeven@gmail.com">
     <img src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   
-  <a href="https://linkedin.com/in/your-linkedin-username">
+  <a href="https://linkedin.com/in/your-linkedin-devenrote">
     <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
 
----
+
 
 ## 💫 About Me
 
