@@ -1,16 +1,62 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Deven Rote</h1>
+<h3 align="center">Full Stack Developer (MERN) | Java & DSA</h3>
 
-<!--
-**devenrote/devenrote** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <a href="mailto:your-email@example.com">📩 Email Me</a>
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💫 About Me
+
+I am an Information Technology student and aspiring Full Stack Developer with a strong foundation in backend logic and problem-solving.
+
+🔹 Currently completing Full Stack Development in MERN Stack  
+🔹 Strong in Java and Data Structures & Algorithms  
+🔹 Skilled in SQL and database management  
+🔹 Focused on building scalable and real-world web applications  
+🔹 Passionate about clean code and structured system design  
+
+---
+
+## 💻 Tech Stack
+
+### 🌐 Frontend
+- HTML5  
+- CSS3  
+- JavaScript  
+- React.js  
+
+### 🛠 Backend
+- Node.js  
+- Express.js  
+
+### 🗄 Database
+- MongoDB  
+- SQL  
+
+### 🧠 Programming & Core
+- Java  
+- Data Structures & Algorithms  
+
+---
+
+## 📌 Current Focus
+
+- Improving MERN Stack development skills  
+- Building real-world full stack projects  
+- Strengthening backend architecture concepts  
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=default" />
+</p>
+
+---
+
+## 📌 Philosophy
+
+"Write clean code. Build scalable systems. Keep learning."
